@@ -1,0 +1,59 @@
+{
+    "name": "SocialGamer",
+    "description": "Custom cards from the SocialGamer.net community.",
+    "watermark": "SocialGamer",
+    "expansion": true,
+    "blackCards": [
+        {
+            "text": "____ is the name of my ____ cover band.",
+            "pick": 2
+        },
+        {
+            "text": "Who dunnit? ____ with ____ in ____.",
+            "pick": 3
+        },
+        {
+            "text": "Alcoholic games of Clue&reg; lead to ____.",
+            "pick": 1
+        },
+        {
+            "text": "____.tumblr.com",
+            "pick": 1
+        },
+        {
+            "text": "Don't slow down in East Cleveland or ____.",
+            "pick": 1
+        },
+        {
+            "text": "____ has the \"mount\" keyword.",
+            "pick": 1
+        },
+        {
+            "text": "At the last PAX, Paul and Storm had ____ thrown at them during \"Opening Band\".",
+            "pick": 1
+        },
+        {
+            "text": "Drunken games of Pretend You're Xyzzy lead to ____ and ____.",
+            "pick": 2
+        }
+    ],
+    "whiteCards": [
+        "The sound a single ThunderStix&reg; makes.",
+        "The Chilled Knife.",
+        "Dr. Phil.",
+        "Paul and Storm.",
+        "Jonathan Coulton.",
+        "MC Frontalot.",
+        "Pretending you're Xyzzy.",
+        "Cleveland (it's not Detroit!).",
+        "The best card in my hand.",
+        "The biggest, blackest dick.",
+        "Suddenly realizing you're retarded.",
+        "The League of Legends.",
+        "A Canadian penny.",
+        "dho's penis.",
+        "Griffy's tits.",
+        "Being banned from /r/pyongyang.",
+        "The lost city of Atlantis."
+    ]
+}
