@@ -1,0 +1,665 @@
+{
+    "name": "Creator's Pack",
+    "description": "For more pony-related fun.",
+    "watermark": "Creator's Pack",
+    "expansion": false,
+    "blackCards": [
+        {
+            "text": "____ requested Princess Twilight to kill ______.",
+            "pick": 2
+        },
+
+        {
+            "text": "_____ caused a controversy that upset the fandom for months.",
+            "pick": 1
+        },
+        {
+            "text": "_____ needs to be about 20% cooler.",
+            "pick": 1
+        },
+        {
+            "text": "_______ wrote a fic featuring ______.",
+            "pick": 2
+        },
+        {
+            "text": "_______ turned out to be _______ 's secret fetish.",
+            "pick": 2
+        },
+        {
+            "text": "________ opened their legs for _________.",
+            "pick": 2
+        },
+        {
+            "text": "________ was found on top of _________ in Fluttershy's shed.",
+            "pick": 2
+        },
+        {
+            "text": "________ denies the existence of _________.",
+            "pick": 2
+        },
+        {
+            "text": "________ and __________ will be the next guests on Epic Pony Rap Battles of Equestria.",
+            "pick": 2
+        },
+        {
+            "text": "__________ has always wanted to get with __________ .",
+            "pick": 2
+        },
+        {
+            "text": "__________ was added to Twilight's collection of __________.",
+            "pick": 2
+        },
+        {
+            "text": "__________ was featured in a movie about ___________.",
+            "pick": 2
+        },
+        {
+            "text": "__________ is best background pony.",
+            "pick": 1
+        },
+        {
+            "text": "____________?  I just don't know WHAT went wrong!",
+            "pick": 1
+        },
+        {
+            "text": "___________, said no pony ever.",
+            "pick": 1
+        },
+        {
+            "text": "And then I said, ______, are you CRAZY?",
+            "pick": 1
+        },
+        {
+            "text": "Beep Beep. I'm _____",
+            "pick": 1
+        },
+        {
+            "text": "It made me mad when I realized nobody recorded ________ doing _________.",
+            "pick": 2
+        },
+        {
+            "text": "It must be nice to have a job where you can do ________ all night.",
+            "pick": 1
+        },
+        {
+            "text": "Luna enjoys using ________ on _________.",
+            "pick": 2
+        },
+        {
+            "text": "Luna was shocked to find _________ eating ________ .",
+            "pick": 2
+        },
+        {
+            "text": "Lyra discovered the secret behind anthropology when she saw _______",
+            "pick": 1
+        },
+        {
+            "text": "That's right, I was banned from #EquestriaDaily. How you ask? _______.",
+            "pick": 1
+        },
+        {
+            "text": "There needs to be Ask _____ Tumblr.",
+            "pick": 1
+        },
+        {
+            "text": "This porn is terrible!  Why is ____________ doing ___________?",
+            "pick": 2
+        },
+        {
+            "text": "What is your favorite type of porn? _",
+            "pick": 1
+        },
+        {
+            "text": "Why is _________ so wide?",
+            "pick": 1
+        },
+        {
+            "text": "Why the fuck do I have two _____",
+            "pick": 1
+        },
+        {
+            "text": "Your ______ is bad and you should feel bad.",
+            "pick": 1
+        },
+        {
+            "text": "When I open the fridge I always make sure I have _______ and  _______.",
+            "pick": 2
+        },
+        {
+            "text": "_______ found _______ in their genitals.",
+            "pick": 2
+        },
+        {
+            "text": "What's my favorite type of porn?",
+            "pick": 1
+        },
+        {
+            "text": "______ ordered _______ a pizza.",
+            "pick": 2
+        },
+        {
+            "text": "Keep Calm and ______.",
+            "pick": 1
+        },
+        {
+            "text": "Pink Fluffy _______ Dancing on _______.",
+            "pick": 2
+        },
+        {
+            "text": "Today we are going to get ________ and fly them to ________.",
+            "pick": 2
+        },
+        {
+            "text": "______ rigged their name in the raffle to win _______.",
+            "pick": 2
+        },
+        {
+            "text": "Cards Against _______.",
+            "pick": 1
+        },
+        {
+            "text": "CARD DUMP! (save your god cards!)",
+            "pick": 4
+        },
+        {
+            "text": "The god card for this black card is ______.",
+            "pick": 1
+        },
+        {
+            "text": "Next season of My Little Pony: Friendship is Magic, there will be an episode about ______.",
+            "pick": 1
+        },
+        {
+            "text": "_______ got to explore _______.",
+            "pick": 2
+        },
+        {
+            "text": "_______ got the idea to ________.",
+            "pick": 2
+        },
+        {
+            "text": "______ cost me both ______ and a ________.",
+            "pick": 3
+        },
+        {
+            "text": "This Card Czar has _______ up their ass.",
+            "pick": 1
+        },
+        {
+            "text": "Never drink ______ after ______.",
+            "pick": 2
+        },
+        {
+            "text": "My milkshake brings ______.",
+            "pick": 1
+        },
+        {
+            "text": "It's _______ Time!",
+            "pick": 1
+        },
+        {
+            "text": "Today's guest on Elements of Harmony will be _______.",
+            "pick": 1
+        },
+        {
+            "text": "The Great and Powerful ________.",
+            "pick": 1
+        },
+        {
+            "text": "______ tried to hide ______ but failed.",
+            "pick": 2
+        },
+        {
+            "text": "The next episode of MLP will be about _______.",
+            "pick": 1
+        },
+        {
+            "text": "This month’s fad is _______.",
+            "pick": 1
+        },
+        {
+            "text": "________ is best background pony.",
+            "pick": 1
+        },
+        {
+            "text": "_______ spends most of their time _______.",
+            "pick": 2
+        },
+        {
+            "text": "______ is best pony because______.",
+            "pick": 2
+        },
+        {
+            "text": "12 inches of _______.",
+            "pick": 1
+        },
+        {
+            "text": "What is what my Cutie Mark telling me?",
+            "pick": 1
+        },
+        {
+            "text": "We're up all night to get ________.",
+            "pick": 1
+        },
+        {
+            "text": "This Card Czar likes ________.",
+            "pick": 1
+        },
+        {
+            "text": "Everypony loves _______.",
+            "pick": 1
+        },
+        {
+            "text": "______'s Mom has got it going on ♪♫.",
+            "pick": 1
+        },
+        {
+            "text": "_______ does not exist.",
+            "pick": 1
+        },
+        {
+            "text": "Rainbow Dash Presents: _________.",
+            "pick": 1
+        },
+        {
+            "text": "_______. It can happen, only on The Hub!",
+            "pick": 1
+        },
+        {
+            "text": "_______, we've all been there.",
+            "pick": 1
+        },
+        {
+            "text": "After much consideration, I decided to get a tattoo of ________",
+            "pick": 1
+        },
+        {
+            "text": "Oh no! ________! My only weakness!",
+            "pick": 1
+        },
+        {
+            "text": "________! This time it's personal.",
+            "pick": 1
+        },
+        {
+            "text": "If you're going to draw a picture of _______, you really need to emphasize _______.",
+            "pick": 2
+        },
+        {
+            "text": "I kissed a _______ and I liked it!",
+            "pick": 1
+        },
+        {
+            "text": "Is ______ an instrument?",
+            "pick": 1
+        },
+        {
+            "text": "_______. Just because it makes you uncomfortable, doesn't mean it has to change.",
+            "pick": 1
+        },
+        {
+            "text": "Brace yourselves, ________ is coming.",
+            "pick": 1
+        },
+        {
+            "text": "Every time you masturbate, Chuck Norris kills ________.",
+            "pick": 1
+        },
+        {
+            "text": "Whats in my butt?",
+            "pick": 1
+        },
+        {
+            "text": "The Pony of the Day is ______.",
+            "pick": 1
+        },
+        {
+            "text": "You want to stick what inside Rarity?!?",
+            "pick": 1
+        },
+        {
+            "text": "When Luna gets sad, she often finds pleasure in __________.",
+            "pick": 1
+        },
+        {
+            "text": "Only time will tell if _______ should be used on _______.",
+            "pick": 2
+        },
+        {
+            "text": "Celestia's bedchamber name for _______ is _______.",
+            "pick": 2
+        },
+        {
+            "text": "Pinkie Pie enjoys going on a murderous rampage while singing _______.",
+            "pick": 1
+        },
+        {
+            "text": "Granny Smith's most cherished memory during her long life was experiencing _______.",
+            "pick": 1
+        },
+        {
+            "text": "Pink Fluffy Unicorns Dancing on ________.",
+            "pick": 1
+        },
+        {
+            "text": "What does the fox say?",
+            "pick": 1
+        },
+        {
+            "text": "My Little ________.",
+            "pick": 1
+        },
+        {
+            "text": "Why is Princess Twilight drunk again?",
+            "pick": 1
+        },
+        {
+            "text": "One good ______ deserves another.",
+            "pick": 1
+        }
+    ],
+    "whiteCards": [
+        "A poorly written clopfic.",
+        "(I'm clopping to ponies right now)",
+        "*DERP*",
+        "24-hour orgy.",
+        "A bigger blacker Rainbow Dash.",
+        "A cutie mark of Apple Bloom getting a cutie mark of Apple Bloom getting a cutie mark of Apple Bloom getting...",
+        "A grimdark kick.",
+        "A hornier Pinkie Pie.",
+        "A Portal Gun.",
+        "A thick book.",
+        "A tipsy Berry Punch.",
+        "A trained squad of attack-parasprites.",
+        "Alicorn Princess Twilight Sparkle.",
+        "Alicorn Tom.",
+        "All the Raridick.",
+        "An oddly shaped penis.",
+        "Applejack's sweet candy apple used pussy.",
+        "Applejacks Ѽ",
+        "Apples, apples, apples.",
+        "Automatic circumciser.",
+        "Best Princess.",
+        "Black and red alicorn Mary Sue OC.",
+        "BRAAAAIIIINNNNZZZ!!!",
+        "Butt Sluts Vol.5",
+        "Cadance spear-thrown.",
+        "Cards against Equestria.",
+        "Changeling hiding in your ass.",
+        "CHANGELING!!1!!1",
+        "Crackle.",
+        "Crotchboobs.",
+        "Crystal Ponies.",
+        "CUTIE MARK CRUSADERS SEX SLAVES YAY!",
+        "Decapitating.",
+        "Double-Rainboom.",
+        "Double-Raingasm.",
+        "Epic-Raingasm.",
+        "ERROR 404: CARD NOT FOUND.",
+        "FiM Fiction.",
+        "Fluffle Puff foaming at the mouth.",
+        "For being a total fucking moron.",
+        "Horse cum.",
+        "I'll show you tonight.",
+        "IMPOSSIBRU!!!!!!",
+        "In Fluffle Puff's mane.",
+        "Inflatable Pony.",
+        "Inside Twilight's mouth.",
+        "Inspector Colgate.",
+        "It's good for you.",
+        "Jesus in Equestria.",
+        "John de Lancie.",
+        "Keeping Rarity handy. Just in case.",
+        "Kinky.",
+        "Lego-Porn room.",
+        "Luna's dark power.",
+        "Luna's giant strap-on.",
+        "Making a Monty Python reference in your fic.",
+        "MuffinGrenades.",
+        "My godcard.",
+        "NERDDDDDSSSS!!!!",
+        "Oatmeal.",
+        "Oh gawd! It's everywhere!",
+        "On the MOOOOOON!!!!",
+        "ONII CHAN!",
+        "Pizza with a Pony on it.",
+        "Plushie changeling.",
+        "Plushie sex.",
+        "Pollow wrestling.",
+        "Racist barn.",
+        "Raridick.",
+        "Realizing you were banging a changeling mid-orgasm.",
+        "Rule #63",
+        "Rustling the jimmies.",
+        "Sad Pony.",
+        "Saving Private Raridick.",
+        "Scoota-Chicken.",
+        "Scootiebelle.",
+        "Screw the god cards! I have a magical unicorn-poop.",
+        "SEEEEEXXXXXXX!!!!!!",
+        "SnowDrop.",
+        "Soarin'.",
+        "Special time with Rainbow Dash.",
+        "Spitfire.",
+        "Spitfire's raging thermal pussy.",
+        "Staying up all night to play Cards Against Humanity. Because we can.",
+        "Suck my horn!",
+        "Suck my primaries!",
+        "Surprise buttsex!",
+        "Sweetiebelle's Viagra stash.",
+        "Tara Strong, in another VA role.",
+        "That Lyra vibrator.",
+        "The card I'm playing instead of Sweetie Belle's virgin marshmallow pussy.",
+        "The internet is for clop.",
+        "The New Lunar Republic.",
+        "The Solar Empire.",
+        "These cards all share a theme (it's sex.)",
+        "Trolling.",
+        "Twi-Dance.",
+        "Twilight Sparkle.",
+        "Twilight's evil laboratory.",
+        "Twilight's public clopfics.",
+        "Twilight's secret basement.",
+        "Twilight's special eyes.",
+        "Twixie.",
+        "UNACCEPTABLE!!!!!!",
+        "Using Rarity to clean all the sticky-bits.",
+        "Vampony problems.",
+        "What the fuck I am watchin?!",
+        "Yet another ask-a-pony Tumblr.",
+        "Right between the Eyes.",
+        "Cum-Shots.",
+        "Idiotic YouTube fan comments.",
+        "A coupon for a free blowjob.",
+        "The New Lunar Republic.",
+        "Doge.",
+        "Fun?!",
+        "Flutterbat.",
+        "SPOILERS!!!",
+        "poni.",
+        "Saving the best for last.",
+        "I NEED AN ADULT!!",
+        "Card Czar is worst pony.",
+        "Card Czar is best pony.",
+        "Pon Pon Pony.",
+        "Rarity's Vagina.",
+        "Daring Do's Vagina.",
+        "Pinkie Pie's Cotton Candy Vagina.",
+        "Doin' it in the butt.",
+        "Broken Glass.",
+        "That one pony from that one episode.",
+        "Nightmare Moon's throbbing mare dick.",
+        "Pony Cum.",
+        "I'm a Pretty Pony.",
+        "What A Tweeest!",
+        "Gently Please!",
+        "Porn.",
+        "Nutella.",
+        "Jello porn.",
+        "Card Czar.",
+        "Puking rainbows.",
+        "YES!",
+        "Another Poni.",
+        "XBOX OFF!",
+        "My Little Pony RPG: The Elements of Harmony.",
+        "Fluttershy's insistent pussy.",
+        "Cosplay Porn.",
+        "Irish Pub cover of Winter Wrap Up.",
+        "Me.",
+        "FUCK OFF!",
+        "Luna.",
+        "Fire Penis.",
+        "IT'S CALLED BLANK!",
+        "Insert godcard here.",
+        "ButtonMash.",
+        "Buttons Mom.",
+        "Everypony!",
+        "Cheese.",
+        "Cheese pizza with extra cheese.",
+        "Chair.",
+        "This.",
+        "This Black Card needs to be a White Card.",
+        "Pinkie Pie's Cutie Mark.",
+        "Twilight Sparkle's Cutie Mark.",
+        "Ikea.",
+        "You are the weakest link. Goodbye!",
+        "A dildo.",
+        "Lies and slander.",
+        "Tara Strong's Badonkadonk.",
+        "M.A. Larson.",
+        "Don't put that in your mouth.",
+        "FUCK YOU BITCH!",
+        "Pony fursuits.",
+        "poni poni poni.",
+        "Everypony should know.",
+        "Play the fucking card already!",
+        "Slenderman.",
+        "Old People.",
+        "That new car smell.",
+        "Now you fucked up!",
+        "You have fucked up now!",
+        "Grape Kool-Aid.",
+        "Potato.",
+        "Rarity.",
+        "The NEW Cards Against Equestria Game.",
+        "Your Mom!",
+        "C-C-C-C-COMBO BREAKER!!!",
+        "D-D-D-D-DROP THE BASS!",
+        "Wubwubwubwubwub.",
+        "Fuck your God Cards! I have this!",
+        "The Sun.",
+        "The Moon.",
+        "Justin Bieber.",
+        "One Direction.",
+        "ALT+F4",
+        "Im watching you clop.",
+        "Orange juice.",
+        "Toothpaste.",
+        "I don't like ponies touching my hooves.",
+        "Cookie Dough.",
+        "Scootaloo.",
+        "Apple Bloom.",
+        "Michelle Creber.",
+        "Sweetie Belle.",
+        "Lee Tockar.",
+        "Power Ponies!",
+        "Wing Boners.",
+        "Bacon Beer.",
+        "Bacon.",
+        "Bacon bits.",
+        "Diapers.",
+        "FlufflePuff.",
+        "Waffle Maker.",
+        "Twinkie Maker.",
+        "wow much play.",
+        "Twerking.",
+        "Stealing all the pants.",
+        "Taking off my shirt.",
+        "Calling out someone else's name in bed.",
+        "Selling everything I own.",
+        "Pew~.",
+        "Goldfish.",
+        "Chicken Pot Pie.",
+        "Kentucky Fried Scootaloo.",
+        "Fucking her gently.",
+        "Suicide.",
+        "Being an Alcoholic.",
+        "Dinky.",
+        "Child Abuse.",
+        "Get Lucky.",
+        "Friend Zone.",
+        "Weed.",
+        "nope.avi.",
+        "Jazz Hands.",
+        "Partying with Pinkie Pie.",
+        "Partying inside Pinkies Vagina.",
+        "Everfree Forest.",
+        "F5 F5 F5 F5 F5 F5.",
+        "ALL ABOARD!",
+        "Because I can.",
+        "Applejack is best background pone.",
+        "SEX!",
+        "Clopping to ponies.",
+        "Kissing Twilight's Star-Studded Butt.",
+        "Not For Sale.",
+        "M.A. Larson's Vagina.",
+        "Me love you long time.",
+        "A bigger blacker Cards Against Equestria.",
+        "Reload the page.",
+        "My salsa.",
+        "wow much play.",
+        "Irregular Boner.",
+        "Not fitting in.",
+        "A dream within a dream within a wet dream.",
+        "Suck my penis.",
+        "A shot glass full of orangutan semen.",
+        "Hitting speed bumps at full speed while getting road head.",
+        "The smallest, whitest dick.",
+        "Using a banana for scale.",
+        "Going to the wrong Pen Island.",
+        "Pooping so hard your tampon falls out.",
+        "Realizing too late that there is no toilet paper left.",
+        "Sneezing then finding out you have explosive diarrhea.",
+        "Jacking off so much that your dick gets chapped.",
+        "An ass that hurts because you wiped too much.",
+        "Angry, drunken Canadians.",
+        "Adolf Hitler's signature mustache ride.",
+        "Everyone has sex, the end.",
+        "Actually clicking the 'I am under 18' button.",
+        "Diabeetus.",
+        "Taking yoga lessons just to see some ass.",
+        "HEAD ON! Apply directly to the forehead. HEAD ON! Apply directly to the forehead.",
+        "A fart that is reborn as a queef.",
+        "Grandma swinging her tits.",
+        "Moving the furniture around in a blind man's house.",
+        "Bill Cosby seductively rubbing his nipples with puddin pops.",
+        "A T-Rex trying to masturbate.",
+        "A bottle of vodka.",
+        "The Changeling Hive.",
+        "Grab my swallow! No time to explain!",
+        "Puttin it in the mouth.",
+        "Watching ponies with no pants on.",
+        "Waking up in Mexico next to a donkey and a clown with a hurting ass.",
+        "It's got lettuce on it, bitch!",
+        "Sexual Frustration.",
+        "A Potato.",
+        "That sticky thing from the Everfree.",
+        "Luna's moon-shaped butt.",
+        "Celestia's favorite pastime.",
+        "FUN!",
+        "Star Flower.",
+        "The penis expansion.",
+        "The entire works of Beethoven.",
+        "The Konami Code.",
+        "A Soft leather whip.",
+        "Big Booty Bitches.",
+        "A grue.",
+        "Wolfjob.",
+        "Taking a piss with your headset unmuted in a Skype call.",
+        "Goat Simulator.",
+        "Jim the multi-sexual fursona.",
+        "Spinning your dick so fast it is like Muhammad Ali on a punching bag.",
+        "Touching your no-no place.",
+        "Steve the dead pigeon."
+    ]
+}
